@@ -1,0 +1,13 @@
+#wrapper {
+    display: flex;
+}
+
+
+#sectionA,
+#sectionB,
+#sectionC {
+    width: 33%;
+    border: 1px solid black;
+    height: 800px;
+    text-align: center;
+}

@@ -1,0 +1,42 @@
+.wrapper {
+    text-align: center;
+    color: white;
+    background-color: rgb(12, 129, 129);
+}
+
+h1 {
+    padding-top: 5px;
+    font-size: 75px;
+}
+
+header {
+    border: 1px solid white;
+    margin: 10px;
+    border-radius: 10px;
+    height: 70px;
+    font-size: 30px;
+    line-height: 70px;
+}
+
+.secondWrapper {
+    display: flex;
+}
+
+nav {
+    width: 20%;
+    border: 1px solid white;
+    margin-right: 10px;
+    height: 500px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+section {
+    width: 80%;
+    border: 1px solid white;
+    height: 500px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}

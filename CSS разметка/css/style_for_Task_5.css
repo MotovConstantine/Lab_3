@@ -1,0 +1,19 @@
+#wrapper {
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+
+#sidebar {
+    width: 30%;
+    background-color: grey;
+    padding: 10px;
+    text-align: left;
+}
+
+#content {
+    width: 70%;
+    padding: 10px;
+    background-color: green;
+    text-align: left;
+}

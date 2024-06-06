@@ -1,0 +1,50 @@
+body {
+    background: gray;
+}
+
+#firstDiv {
+    background: blue;
+    width: 100px;
+    height: 100px;
+}
+
+#secondDiv {
+    background: yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.absolutePositionExample {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.relativePositionExample {
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+.text_1 {
+    position: relative;
+    color: azure;
+    top: 260px;
+    left: 180px;
+}
+
+img {
+    position: relative;
+    z-index: -1;
+}
+
+.img {
+    float: left;
+    margin-right: 10px;
+    width: 400px;
+    border: 2px solid black;
+}
+
+.text_2 {
+    font-size: 20px;
+}

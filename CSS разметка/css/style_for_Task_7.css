@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.div1 {
+    flex: 1;
+    background-color: red;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 2vh;
+
+}
+
+.div2 {
+    flex: 1;
+    background-color: blue;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 2vh;
+
+}
+
+.div3 {
+    flex: 1;
+    background-color: blue;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 2vh;
+    color: white;
+}
+
+.div4 {
+    flex: 1;
+    background-color: yellow;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 2vh;
+    color: white;
+}
+
+.div5 {
+    flex: 1;
+    background-color: red;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 2vh;
+    color: white;
+}
+
+.div6 {
+    flex: 1;
+    background-color: black;
+    border-radius: 50px;
+    text-align: center;
+    padding-top: 2vh;
+    color: white;
+}
